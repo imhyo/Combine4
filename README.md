@@ -10,3 +10,9 @@ Usage
 java Combine4 n1 n2 n3 n4
 ```
 
+Example
+-------
+```
+java Combine4 3 3 7 7
+(((3/7)+3)*7)
+```
